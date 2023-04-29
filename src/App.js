@@ -24,9 +24,6 @@ function App() {
       <Skills />
       </div>
       <div className='row-custom'>
-        <Capstone />
-      </div>
-      <div className='row-custom'>
         <Projects/>
       </div>
       <div className='row-custom'>

@@ -24,9 +24,9 @@ const Projects = () => {
       id: 3,
       title: "Project 3",
       description: "This is the third project",
-      technologies: ["Angular", "Ruby on Rails"],
+      technologies: ["React Js", "Node Js", "React Native", "Socket.io","MySql"],
       image: "project3.png",
-      link: "https://github.com/username/project3",
+      link: "https://cash4-work.web.app/jobs",
     },
   ];
 
