@@ -26,8 +26,8 @@ export default function Capstone() {
             <li className='project-info-cell'>Technologies:<p>Node js Flusk, ReactJs, React Native</p></li>
             <li className='project-info-cell'>Links:
               <div>
-                <a href='' target="_blank">Github</a>
-                <a href='' target="_blank">The project</a>
+                <a href='https://github.com/HamdaanYare/cash4work-front_end' target="_blank">Github</a>
+                <a href='https://cash4-work.web.app/jobs' target="_blank">The project</a>
               </div>
             </li>
           </ul>

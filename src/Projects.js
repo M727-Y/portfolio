@@ -14,11 +14,11 @@ const Projects = () => {
     },
     {
       id: 2,
-      title: "Project 2",
-      description: "This is the second project",
-      technologies: ["Vue.js", "Express"],
+      title: "Must be corrected",
+      description: "The project about employee list. You have options to add, edit, view, delete employee. The project is connected to backend server.",
+      technologies: ["Angular.js", "Express","NodeJs"],
       image: "project2.png",
-      link: "https://github.com/username/project2",
+      link: "https://github.com/M727-Y/101312178_comp3133_assig2",
     },
     {
       id: 3,
