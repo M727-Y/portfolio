@@ -3,7 +3,7 @@ import './Bio.css'
 
 export default function Bio() {
   return (
-    <div className="biography">
+    <div className="biography" id="bio">
       <h1 className="biography__title">Biography</h1>
       <h3 className='biography__name'>Mikhail Yugay<br/>Full Stack Developer</h3>
       <p className="biography__text">

@@ -18,7 +18,7 @@ export default function Resume() {
      // Create a URL for the Blob object
     const pdfUrlCv = URL.createObjectURL(pdfBlob);
   return (
-    <div className='resume-form'>
+    <div className='resume-form' id='resume'>
         <div>
             <h3>Resume</h3>
             <a href={pdfUrl} download="resume.pdf">Download Resume</a>
