@@ -6,11 +6,11 @@ const Projects = () => {
   const projectList = [
     {
       id: 1,
-      title: "Kitchen App",
-      description: "This is the application about recipes",
-      technologies: ["Spring Boot", "Thymeleaf"],
-      image: "Project1.png",
-      link: "https://github.com/M727-Y/kitchenApp",
+      title: "Cash4Work",
+      description: "This is the third project",
+      technologies: ["React Js", "Node Js", "React Native", "Socket.io","MySql"],
+      image: "project3.png",
+      link: "https://cash4-work.web.app/jobs",
     },
     {
       id: 2,
@@ -22,11 +22,11 @@ const Projects = () => {
     },
     {
       id: 3,
-      title: "Project 3",
-      description: "This is the third project",
-      technologies: ["React Js", "Node Js", "React Native", "Socket.io","MySql"],
-      image: "project3.png",
-      link: "https://cash4-work.web.app/jobs",
+      title: "Kitchen App",
+      description: "This is the application about recipes",
+      technologies: ["Spring Boot", "Thymeleaf"],
+      image: "Project1.png",
+      link: "https://github.com/M727-Y/kitchenApp",
     },
   ];
 

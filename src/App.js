@@ -10,6 +10,7 @@ import Photo from './Photo';
 import Skills from './Skills';
 import Resume from './Resume';
 import Capstone from './Capstone';
+import Footer from './Footer';
 function App() {
   return (
     <div className="App">
@@ -28,6 +29,9 @@ function App() {
       </div>
       <div className='row-custom'>
         <Contact/>
+      </div>
+      <div>
+        <Footer/>
       </div>
       
       
